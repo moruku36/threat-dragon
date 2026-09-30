@@ -1,3 +1,11 @@
+# OWASP Threat Dragon
+
+[English](README.md) | [日本語](README.ja.md)
+
+An open-source, cross-platform threat-modeling application for drawing system diagrams and documenting threats.
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/owasp/threat-dragon/main/td.vue/src/assets/threatdragon_logo_image.svg"
   width="200" alt="Threat Dragon Logo"/>
